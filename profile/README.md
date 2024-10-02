@@ -48,7 +48,7 @@
 - [Arch-local](https://github.com/arch-network/arch-local)
 - [Arch-cli](https://github.com/arch-network/arch-cli)
 - **Clients:**
-  - [Arch Typescript SDK](https://github.com/hoffmabc/arch-typescript-sdk)
+  - [Arch Typescript SDK](https://github.com/saturnbtc/arch-typescript-sdk)
 </details>
 
 <details><summary>Wallets</summary>
