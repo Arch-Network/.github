@@ -45,7 +45,6 @@
 
 - [Official Documentation](https://docs.arch.network)
 - [The Arch Book](https://docs.arch.network/book)
-- [Arch-local](https://github.com/arch-network/arch-local)
 - [Arch-cli](https://github.com/arch-network/arch-cli)
 - **Clients:**
   - [Arch Typescript SDK](https://github.com/saturnbtc/arch-typescript-sdk)
