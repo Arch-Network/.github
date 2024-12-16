@@ -12,7 +12,7 @@
 ## Choose your path:
 <details><summary>Build on Arch Network</summary>
 
-- \[Setup] [I want to get started hacking on Arch Network](https://github.com/arch-network/arch-cli)
+- \[Setup] [I want to get started hacking on Arch Network](https://docs.arch.network/book)
 
 - \[About] [I want to have an overview of Arch Network](https://docs.arch.network)
 
@@ -36,7 +36,7 @@
   
 - [I want to contribute to your documentation efforts](https://github.com/Arch-Network/book/blob/main/CONTRIBUTING.md)
 
-- I want to see what other hackers are building on Arch Network (Coming soon!)
+- [I want to see what other hackers are building on Arch Network](https://arch.network/ecosystem)
 
 </details>
 
@@ -45,7 +45,6 @@
 
 - [Official Documentation](https://docs.arch.network)
 - [The Arch Book](https://docs.arch.network/book)
-- [Arch-local](https://github.com/arch-network/arch-local)
 - [Arch-cli](https://github.com/arch-network/arch-cli)
 - **Clients:**
   - [Arch Typescript SDK](https://github.com/hoffmabc/arch-typescript-sdk)
@@ -53,7 +52,13 @@
 
 <details><summary>Wallets</summary>
 
-- [Xverse](https://www.xverse.app/): Currently, we recommend the Xverse wallet, though any Bitcoin wallet can suffice.
+The following wallets currently support Bitcoin Testnet4.
+
+- [Xverse](https://www.xverse.app/)
+- [Unisat](https://unisat.io/)
+- [Leather](https://leather.io/)
+- [OKX](https://okx.com)
+
 </details>
 
 <details><summary>Partners</summary>
@@ -63,6 +68,13 @@
 - [Hermetica](https://www.hermetica.fi/)
 - [Hamilton](https://www.hamiltonrwa.com/)
 - [funkybit](https://funkybit.fun/)
+- [Bound](https://www.bound.money/)
+- [Asigna](https://www.asigna.io/)
+- [Leather](https://leather.io/)
+- [Pell Network](https://pell.network/)
+- [Maestro](https://www.gomaestro.org/)
+- [Ordbit](https://app.ordbit.io/)
+- [Xverse](https://www.xverse.app/)
 
 More coming soon!
 
