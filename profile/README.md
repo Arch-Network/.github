@@ -5,7 +5,7 @@
 
 - Unlike L2s and meta-protocols where users must bridge or wrap their assets and then send the assets to a smart contract, Arch allows users to send their assets directly through the program (Arch smart contracts) invocation without bridging or wrapping first.
 
-- The Arch Network maintains real-time state, allowing for Bitcoin transaction chains to be built up within the Bitcoin mempool. Because these unconfirmed Bitcoin transactions are controlled by the Arch Network distributed keys, the network can be confident that double spends of state transitions will not occur, and all state transitions will all eventually be incorporated into the Bitcoin blockchain, which provides finality for those who need ultimate security, like waiting to transfer physical or non-Bitcoin assets.
+- The Arch Network maintains real-time state, allowing for Bitcoin transaction chains to be built up within the Bitcoin mempool. Because these unconfirmed Bitcoin transactions are controlled by the Arch Network distributed keys, the network can be confident that double spends of state transitions will not occur and that all state transitions will eventually be incorporated back into the Bitcoin blockchain, providing finality.
 
 </details>
 
@@ -47,7 +47,7 @@
 - [The Arch Book](https://docs.arch.network/book)
 - [Arch-cli](https://github.com/arch-network/arch-cli)
 - **Clients:**
-  - [Arch Typescript SDK](https://github.com/hoffmabc/arch-typescript-sdk)
+  - [Arch Typescript SDK](https://github.com/saturnbtc/arch-typescript-sdk)
 </details>
 
 <details><summary>Wallets</summary>
